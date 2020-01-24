@@ -1,0 +1,16 @@
+{
+  "name": "landingMaquilas",
+  "version": "1.0.0",
+  "description": "Landing para eln sitio maquilasmetalicas.com",
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "live-server"
+  },
+  "keywords": [],
+  "author": "Leonardo Lopez <leodanlors1993@gmail.com",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
