@@ -30,7 +30,7 @@ body{
 }
 .product__title,
 .product__price{
-    color:blue;
+    color:rgb(1, 1, 196);
     font-size: 32px;
     
     position: relative;
