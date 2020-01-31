@@ -72,8 +72,15 @@ body{
     font-size: 30px;
     margin-top: 10px;
     width: 100%;
+    outline: none;
+    
 /*     box-shadow: rgb(46, 46, 46) 2px 2px 10px 0px;
  */}
+    .product__btn:hover{
+        background-color: white;
+        color:rgb(253, 83, 5) ;
+        border:solid 2px rgb(253, 83, 5);
+    }   
 
 @media (min-width: 768px){
     
@@ -130,7 +137,9 @@ body{
     .product__btn{
         width: 300px;
         align-self: center;
+       
     }
+   
     
 }
 
